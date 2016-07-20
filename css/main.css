@@ -1,0 +1,23 @@
+
+.tres{
+	width: 30px;
+	height:30px;
+	background-color: green;
+	display: inline-block;
+	padding: 10px;
+	margin: 3px;
+	float: right;
+}
+.papa{
+	width: 250px;
+	height:80px;
+	border:1px solid black;
+	background-color: red;
+    display: block;
+
+}
+.clearfix{
+	overflow: auto;
+	zoom: 1px;
+}
+	
